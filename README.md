@@ -2,6 +2,14 @@
 
 A simple blockchain implementation in Python for educational purposes.
 
+## Installation
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+# No external dependencies required
+```
+
 ## Features
 
 - Block creation with SHA-256 hashing
